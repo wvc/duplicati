@@ -15,6 +15,7 @@ Software Development:
   Tim Mylemans
   Xelio Cheong
   Michal Naiman
+  Wim Vancroonenburg (Dropbox backend)
   
 The theme for Duplicati (ngax):
   Alexander Franzelin
